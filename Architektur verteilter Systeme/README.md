@@ -30,7 +30,7 @@
 | 5. | MartinBoehm1|  
 | 6. | MartinBoehm1|  
 | 7. | |  
-| 8. | |  
+| 8. | Markus Kurzmann |  
 | 9. | |  
 | 10. | |  
 | 11. | |  
