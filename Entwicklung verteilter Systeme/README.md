@@ -40,13 +40,13 @@
 | 9. |tbrych|  
 | 10. | |  
 | 11. | MarkusKurzmann |  
-| 12. | |  
+| 12. |Thomas-Haider |  
 | 13. |tklecka|  
 | 14. | |  
 | 15. | |  
 | 16. | |  
 | 17. | |  
-| 18. | |  
+| 18. |Thomas-Haider |  
 | 19. | |  
 | 20. | |  
 | 21. | | 
