@@ -20,3 +20,26 @@
 14. Was ist mit dem Konzept *Infrastructure-as-Code* (kurz *IaC*) in Bezug auf Cloud Computing gemeint?
 15. Beschreiben Sie das Grundkonzept von XAML (*XML Application Markup Language*). Skizzieren Sie das Grundprinzip in *C#/Xamarin* oder *C#/WPF*.
 16. Erklären Sie das Prinzip der Trennung von *View*, *Model* und *View-Logik* (aka *ViewModel*). Welchen Vorteil hat dieses Softwaredesignprinzip? Skizzieren Sie das Grundprinzip in *TypeScript/Angular*, *C#/Xamarin Forms* oder *C#/WPF*.
+
+| Nr. | Name |  
+|:-:|:-:|
+| 1. | |  
+| 2. | |  
+| 3. | |  
+| 4. | |  
+| 5. | |  
+| 6. | |  
+| 7. | |  
+| 8. | |  
+| 9. | |  
+| 10. | |  
+| 11. | |  
+| 12. | |  
+| 13. | |  
+| 14. | |  
+| 15. | |  
+| 16. | |  
+| 17. | |  
+| 18. | |  
+| 19. | |  
+| 20. | |  
