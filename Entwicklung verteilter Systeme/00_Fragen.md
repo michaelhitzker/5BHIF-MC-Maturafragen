@@ -26,3 +26,32 @@
 11. Erklären Sie anhand eines Beispiels den Grundaufbau eines *ASP.NET Core Web API Controllers*, der es erlaubt, über Web API Datensätze in einer DB-Tabelle zu lesen und zu schreiben.
 12. Erklären Sie den konzeptionellen Unterschied von *TypeScript/Angular* und *C#/Xamarin Forms*, die Statusänderungen durch Programmcode (z.B. Wert eines *Properties* ändert sich) zur Aktualisierung der Benutzerschnittstelle führen.
 13. Erklären Sie, wie Sie in einer ASP.NET Core-Anwendung `HttpClient` verwenden, um Web APIs aufzurufen. Welche Rolle spielt *Dependency Injection* in diesem Zusammenhang?
+
+| Nr. | Name |  
+|:-:|:-:|
+| 1. | |  
+| 2. | |  
+| 3. | |  
+| 4. | |  
+| 5. | |  
+| 6. | |  
+| 7. | |  
+| 8. | |  
+| 9. | |  
+| 10. | |  
+| 11. | |  
+| 12. | |  
+| 13. | |  
+| 14. | |  
+| 15. | |  
+| 16. | |  
+| 17. | |  
+| 18. | |  
+| 19. | |  
+| 20. | |  
+| 21. | | 
+| 22. | | 
+| 23. | | 
+| 24. | | 
+| 25. | | 
+| 26. | | 
