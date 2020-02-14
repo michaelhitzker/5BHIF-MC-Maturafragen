@@ -13,9 +13,8 @@ Die Markdown-Files müssen im folgenden Format im jeweiligen Ordner gespeichert 
 - \<FrageNr>_\<Themenname kurz>.md  
 - 00_ThemaX.md  
  
-Die gesamte Ausarbeitung muss in einem Markdown-File sein.  
-Der Code kann grundsätzlich in das Markdown-File inkludiert sein. Falls es notwendig ist zusätzliche Files hinzuzufügen, soll ein Ordner für die Ausarbeitung ertellt werden. Dieser hat dieselbe Bezeichnung wie das .md-File.
-Images müssen in den dafür erstellten img-Folder gespeichert werden.
+Der Code kann grundsätzlich in das Markdown-File inkludiert sein. Falls es notwendig ist zusätzliche Files hinzuzufügen, soll ein Ordner für die Ausarbeitung ertellt werden. Dieser hat dieselbe Bezeichnung wie das .md-File und beinhaltet das .md-File und die zusätzlichen Dateien.
+Bilder müssen in den dafür erstellten img-Folder gespeichert werden.
 
 ## Einchecken der Ausarbeitung
 Wenn die Ausarbeitung vollständig ist, wird dafür ein Pull-Request erstellt.  
