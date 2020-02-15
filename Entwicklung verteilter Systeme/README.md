@@ -38,17 +38,17 @@
 | 7. | |  
 | 8. | |  
 | 9. |tbrych|  
-| 10. | |  
+| 10. | Lukas Mistlberger |  
 | 11. | MarkusKurzmann |  
 | 12. |Thomas-Haider |  
 | 13. |tklecka|  
 | 14. | |  
 | 15. | |  
-| 16. | |  
+| 16. |Lukas Mistlberger|  
 | 17. | |  
 | 18. |Thomas-Haider |  
 | 19. | |  
-| 20. | |  
+| 20. |Lukas Mistlberger |  
 | 21. | | 
 | 22. | | 
 | 23. | | 
