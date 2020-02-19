@@ -34,7 +34,7 @@
 | 3. | |  
 | 4. | MarkusKurzmann |  
 | 5. | |  
-| 6. | |  
+| 6. |michaelhitzker|  
 | 7. | |  
 | 8. | |  
 | 9. |tbrych|  
